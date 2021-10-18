@@ -23,8 +23,14 @@ Considere o modelo abaixo:
 ---
 
 ## Resultado
+* Menu
 ![Imagem do menu](https://github.com/viniciussz7/appMensagem/blob/main/menu-app.png)
 
+* Lista de Contatos
+![Exemplo da lista de contatos](https://github.com/viniciussz7/appMensagem/blob/main/img/lista-contatos.png)
+
+* Mensagens salvas
+![Exemplo de msg salvas](https://github.com/viniciussz7/appMensagem/blob/main/img/lista-msg.png)
 
 ---
 
