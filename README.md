@@ -8,7 +8,7 @@ enviar uma mensagem para vários contatos. Uma mensagem tem um conteúdo, o assu
 foi enviada e a lista de contatos. Um contato pode ser do tipo email, caixa postal ou telefone.
 Considere o modelo abaixo:
 
-![Diagrama de classes](C:\Users\vsouz\Documents\Git\appMensagem)
+![Diagrama de classes](https://github.com/viniciussz7/appMensagem/blob/main/diagrama-class.png)
 
 ---
 
@@ -23,7 +23,7 @@ Considere o modelo abaixo:
 ---
 
 ## Resultado
-![Imagem do menu](C:\Users\vsouz\Documents\Git\appMensagem)
+![Imagem do menu](https://github.com/viniciussz7/appMensagem/blob/main/menu-app.png)
 
 
 ---
